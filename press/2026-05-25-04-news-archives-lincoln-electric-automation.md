@@ -1,7 +1,9 @@
 ---
 title: News Archives - Lincoln Electric Automation
 url: https://coldwatermachine.com/category/news/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lincoln Electric Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
